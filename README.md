@@ -58,6 +58,6 @@ cd TicketTracker
 dotnet build
 dotet run
 ```
-You can then visit [localhost:7220/swagger](localhost:7220/swagger) to use the ticket tracker.
+You can then visit [localhost:7220/swagger](https://localhost:7220/swagger) to use the ticket tracker.
 
 
