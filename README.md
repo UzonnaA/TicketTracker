@@ -8,19 +8,19 @@ This project is inspired by the kinds of internal tools used by field services a
 
 ## 💡 Features
 
-- ✅ **Create, read, and resolve tickets** via RESTful endpoints
-- ✅ Built with **.NET 6 Web API** and **Entity Framework Core**
-- ✅ Exposes interactive API documentation via **Swagger UI**
-- ✅ Automatically timestamps and tracks ticket statuses (`Open` or `Resolved`)
-- ✅ Designed to mirror internal support workflows used in real enterprise environments
+- **Create, read, and resolve tickets** via RESTful endpoints
+- Built with **.NET 6 Web API** and **Entity Framework Core**
+- Exposes interactive API documentation via **Swagger UI**
+- Automatically timestamps and tracks ticket statuses (`Open` or `Resolved`)
+- Designed to mirror internal support workflows used in real enterprise environments
 
 ---
 
 ## 🛠 Technologies Used
 
 - **C#**, **.NET 6**
-- **Entity Framework Core** (code-first)
-- **SQLite** (lightweight embedded database)
+- **Entity Framework Core** 
+- **SQLite** 
 - **Swagger / OpenAPI** for live API exploration
 - **RESTful design principles**
 - **Dependency Injection** and service scoping best practices
