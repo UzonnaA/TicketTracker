@@ -1,6 +1,6 @@
 # Ticket Tracker API
 
-Quick project to simulate how internal support tickets are created and resolved — mainly to get hands-on practice with C# Web APIs, data persistence, and basic workflow logic.
+Quick project to simulate how internal support tickets are created and resolved. I mainly to get hands-on practice with C# Web APIs, data persistence, and basic workflow logic.
 
 I built this to better understand how internal tools (like those used in field services or IT departments) manage issue tracking. It gave me a chance to work with .NET, set up a database with EF Core, and wire up endpoints with Swagger for easy testing.
 
@@ -11,7 +11,7 @@ I built this to better understand how internal tools (like those used in field s
 - Create, fetch, and resolve support tickets through a RESTful API
 - Tracks timestamps and status (open or resolved)
 - Swagger UI for testing endpoints without needing a frontend
-- Lightweight and focused — just enough to mimic a real workflow
+- Lightweight and focused (just enough to mimic a real workflow)
 
 ---
 
