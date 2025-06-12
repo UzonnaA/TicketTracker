@@ -50,12 +50,14 @@ This API was built to demonstrate:
 
 ## 🔧 How to Run the Project
 ```bash
+# Download the project
 git clone https://github.com/UzonnaA/TicketTracker
 cd TicketTracker
 
-# Build and Run
+# Build and run
 dotnet build
 dotet run
 ```
-You can then visit localhost:7220/swagger to use the ticket tracker.
+You can then visit [localhost:7220/swagger](localhost:7220/swagger) to use the ticket tracker.
+
 
