@@ -154,3 +154,4 @@ E:\Code\TicketTracker\obj\Debug\net9.0\refint\TicketTracker.dll
 E:\Code\TicketTracker\obj\Debug\net9.0\TicketTracker.pdb
 E:\Code\TicketTracker\obj\Debug\net9.0\TicketTracker.genruntimeconfig.cache
 E:\Code\TicketTracker\obj\Debug\net9.0\ref\TicketTracker.dll
+E:\Code\TicketTracker\obj\Debug\net9.0\TicketTracker.sourcelink.json
